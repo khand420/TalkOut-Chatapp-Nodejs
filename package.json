@@ -1,0 +1,20 @@
+{
+  "name": "TalK-Out",
+  "version": "1.0.0",
+  "description": "This is an Amazing Chat Application",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.11.8",
+    "pug": "^3.0.0",
+    "socket.io": "^2.3.0",
+    "ssl": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khand",
+  "license": "ISC"
+}
